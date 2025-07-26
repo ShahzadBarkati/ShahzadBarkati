@@ -46,7 +46,6 @@
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=php" title="PHP" height="48"/><br><sub>PHP</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=python" title="Python" height="48"/><br><sub>Python</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" title="Django" height="48"/><br><sub>Django</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" height="48"/><br><sub>JavaScript</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="48"/><br><sub>Laravel</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" height="48"/><br><sub>CodeIgniter</sub></td>
@@ -57,8 +56,8 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="48"/><br><sub>Bootstrap</sub></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=flask" title="Flask" height="48"/><br><sub>Flask</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=django" title="Django" height="48"/><br><sub>Django</sub></td>
+      <td align="center"><img src="http://svgrepo.com/svg/303229/microsoft-sql-server-logo" title="MS SQL Server" height="48"/><br><sub>MS SQL Server</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="48"/><br><sub>MySQL</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="48"/><br><sub>PostgreSQL</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="48"/><br><sub>MongoDB</sub></td>
@@ -67,8 +66,10 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" height="48"/><br><sub>RabbitMQ</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker" title="Docker" height="48"/><br><sub>Docker</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nginx" title="Nginx" height="48"/><br><sub>Nginx</sub></td>
+      
     </tr>
     <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="48"/><br><sub>Firebase</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=aws" title="AWS" height="48"/><br><sub>AWS</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=azure" title="Azure" height="48"/><br><sub>Azure</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" height="48"/><br><sub>Power BI</sub></td>
@@ -76,9 +77,8 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=github" title="GitHub" height="48"/><br><sub>GitHub</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="48"/><br><sub>VS Code</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=phpstorm" title="PHPStorm" height="48"/><br><sub>PHPStorm</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sublime" title="Sublime" height="48"/><br><sub>Sublime</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" title="Postman" height="48"/><br><sub>Postman</sub></td>
-      <td align="center"></td>
-      <td align="center"></td>
     </tr>
   </table>
 </div>
