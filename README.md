@@ -46,6 +46,7 @@
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=php" title="PHP" height="48"/><br><sub>PHP</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=python" title="Python" height="48"/><br><sub>Python</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" title="Django" height="48"/><br><sub>Django</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" height="48"/><br><sub>JavaScript</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=laravel" title="Laravel" height="48"/><br><sub>Laravel</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" height="48"/><br><sub>CodeIgniter</sub></td>
