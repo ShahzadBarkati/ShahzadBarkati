@@ -27,7 +27,7 @@
 
 <div style="background: linear-gradient(120deg, #f3f4f6 60%, #e0c3fc 100%); border-radius: 28px; box-shadow: 0 10px 38px -10px #d72660, 0 2px 10px #64748b; padding: 2em; margin-bottom: 1.5em;">
   <p style="margin-bottom: 0.5em;">
-    <b>Lead Developer</b> with <b>10.4+ years</b> of experience in web development, microservices, scalable APIs, and robust backend solutions.
+    <b>Lead Developer</b> with <b>10+ years</b> of experience in web development, microservices, scalable APIs, and robust backend solutions.
   </p>
   <p style="margin-bottom: 0.5em;">
     <b>Data Analyst</b> with <b>2+ years</b> of experience in ETL/ELT, advanced data cleaning, Power BI reporting, data visualization, and actionable analytics.
@@ -87,7 +87,7 @@
 
 <!-- Animated Skills Line in center, purple color, multiple roles and skills -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=21&pause=700&color=D72660&center=true&vCenter=true&width=650&height=32&lines=Backend+%26+Web+App+Architect+++Strong+Scalable+Solutions;API+Integration+Expert+++Seamless+3rd+Party+Connections;Payment+Gateway+Specialist+++Secure+and+Fast+Transactions;Data+Analyst+++Actionable+Insights+from+Complex+Data;Microservices+Architect+++Modular+and+Cloud-Ready;Deployment+%26+Cloud+Pro+++Fast+and+Reliable+Delivery;Automation+++Save+Time+and+Reduce+Errors;ETL%2FELT+Engineer+++Clean+and+Transform+Your+Data;Power+BI+Guru+++Stunning+Business+Dashboards;RESTful+API+Developer+++Modern+Web+Backends;SQL+%26+NoSQL+Expert+++Flexible+Data+Storage;Web+App+Specialist+++Beautiful+and+Responsive+UI%2FUX" alt="Animated Skills Line" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=21&pause=700&color=D72660&center=true&vCenter=true&width=680&height=32&lines=Backend+%26+Web+App+Architect+++Strong+Scalable+Solutions;API+Integration+Expert+++Seamless+3rd+Party+Connections;Payment+Gateway+Specialist+++Secure+and+Fast+Transactions;Data+Analyst+++Actionable+Insights+from+Complex+Data;Microservices+Architect+++Modular+and+Cloud-Ready;Deployment+%26+Cloud+Pro+++Fast+and+Reliable+Delivery;Automation+++Save+Time+and+Reduce+Errors;ETL%2FELT+Engineer+++Clean+and+Transform+Your+Data;Power+BI+Guru+++Stunning+Business+Dashboards;RESTful+API+Developer+++Modern+Web+Backends;SQL+%26+NoSQL+Expert+++Flexible+Data+Storage;Web+App+Specialist+++Beautiful+and+Responsive+UI%2FUX" alt="Animated Skills Line" />
 </p>
 
 ---
