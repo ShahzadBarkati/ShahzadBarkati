@@ -118,16 +118,17 @@
 
 | **Category**            | **Tech & Tools**                                                                                           |
 |-------------------------|------------------------------------------------------------------------------------------------------------|
-| **Programming**         | PHP, Python, JavaScript                                                                                    |
-| **Frameworks**          | Laravel, CodeIgniter, Symfony, React, Vue3, Tailwind, Bootstrap                                            |
+| **Programming**         | PHP, Python, NodeJS, JavaScript                                                                            |
+| **Frameworks**          | Laravel, CodeIgniter, Symfony, ExpressJS, Flask, Django, React, Vue, Tailwind, Bootstrap                   |
 | **Frontend**            | React, Vue3, Tailwind, Bootstrap                                                                           |
-| **Backend**             | Laravel, CodeIgniter, Flask, Django                                                                        |
+| **Backend**             | Laravel, CodeIgniter, Flask, Django, ExpressJS,                                                            |
 | **API/Integration**     | RESTful APIs, JWT, Passport, OAuth2, Udemy, Skillsoft, Zoom, Teams, Google Meet, WebEx                     |
 | **Payments**            | Paypal, Paytm, Stripe, GoCardless (recurring)                                                              |
 | **Data Analysis**       | Python, SQL, Power BI, Data Cleaning, ETL/ELT, Visualization, Analytics                                    |
 | **Databases**           | MySQL, PostgreSQL, MongoDB, SQLite, SQL Server                                                             |
-| **Tools**               | VS Code, PHPStorm, Redis, RabbitMQ, Docker, Nginx, Jira, Zoho Analytics, Putty, FileZilla, MySQL Workbench, Postman, TablePlus |
-| **Platforms/Cloud**     | AWS, Azure, Apache, Laragon, XAMPP, Herd, Nginx, S3, EC2, Cosmos DB                                       |
+| **Tools**               | VS Code, PHPStorm, Redis, RabbitMQ, Docker, Nginx, Jira, Zoho Analytics, Putty, FileZilla,                 |
+|                         | MySQL Workbench, Postman, TablePlus                                                                        |
+| **Platforms/Cloud**     | AWS, Azure, Apache, Laragon, XAMPP, Herd, Nginx, S3, EC2, CosmosDB                                         |
 
 ---
 
